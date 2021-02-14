@@ -1,0 +1,26 @@
+25
+12424;MATH 10;Elementary Statistics and Probability;MTWR 03:00 PM-05:15 PM;Doli Bambhania;G5
+12580;MATH 10;Elementary Statistics and Probability;MTWR 05:30 PM-07:45 PM;STAFF, M;S16
+12781;MATH 1B;Calculus;MTWR 12:30 PM-02:45 PM;Millia Ison;E32
+12778;MATH 2B;Linear Algebra;MTWR 10:00 AM-12:15 PM; Mehrdad Khosravi;S16
+10979;MATH 10;Elementary Statistics and Probability;MT¡¤R 10:00 AM-12:15 PM;Mo Geraghty;E33
+12782;MATH 1A;Calculus;MTWR 03:00 PM-05:15 PM;Hemendra Shah;MCC-12
+10549;MATH 10;Elementary Statistics and Probability;MT¡¤R 12:30 PM-02:45 PM;Mo Geraghty;E33
+00676;MATH 10;Elementary Statistics and Probability;MTWR 12:30 PM-02:45 PM;Doli Bambhania;G5
+00664;MATH 1C;Calculus;MTWR 05:30 PM-07:45 PM;Fatemeh Yarahmadi;MCC-12
+00673;MATH 10;Elementary Statistics and Probability;MTWR 10:00 AM-12:15 PM;Nadia Bensidi;MLC113
+00658;MATH 1A;Calculus;MTWR 05:30 PM-07:45 PM;Misako Van Der Poel;E34
+00660;MATH 1B;Calculus;MTWR 12:30 PM-02:45 PM;Zack Judson;MLC108
+12532;MATH 1A;Calculus;ONLINE;Lisa Markus;ONLINE
+00659;MATH 1B;Calculus;MTWR 10:00 AM-12:15 PM;Zack Judson;MLC108
+12373;MATH 1A;Calculus;MTWR 10:00 AM-12:15 PM;Nahrin Rashid;E36
+10208;MATH 1B;Calculus;MTWR 05:30 PM-07:45 PM;STAFF, M;E32
+12780;MATH 2A;Differential Equations;MTWR 07:30 AM-09:45 AM;Bijan Sadeghi-Hassanvand;E32
+12523;MATH 10;Elementary Statistics and Probability;MTWR 03:00 PM-05:15 PM;Lilit Mazmanyan;MLC108
+54545;CIS 22C;?Data Abstraction and Structures;T,Th 01:30 PM-03:20 PM;Delia Garbacea;AT202
+00661;MATH 1B;Calculus;MTWR 03:00 PM-05:15 PM;Millia Ison;E32
+00665;MATH 1D;Calculus;MTWR 07:30 AM-09:45 AM;Farshod Mosh;E31
+00679;MATH 10;Elementary Statistics and Probability;ONLINE;Loraine Moen;ONLINE
+10885;MATH 1C;Calculus;MTWR 03:00 PM-05:15 PM;Hassan Bourgoub;E31
+10147;MATH 1A;Calculus;MTWR 12:30 PM-02:45 PM;Nahrin Rashid;E36
+00666;MATH 1D;Calculus;MTWR 05:30 PM-07:45 PM;Hassan Bourgoub;E31
